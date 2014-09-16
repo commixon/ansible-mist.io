@@ -1,0 +1,4 @@
+---
+jsbuild                    : False
+cssbuild                   : False
+sslverify                  : False
